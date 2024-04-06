@@ -1,0 +1,20 @@
+{
+    "title_screen": "Manage Employees",
+    "title": "Manage Employees",
+    "title_screen_search": "Search Employees",
+    "title_search": "Search Employee",
+    "entrys": {
+        "name": "Enter your name:",
+        "lastname": "Enter your last name:",
+        "email": "Enter your email:",
+        "post": "Enter the job:"
+    },
+    "errors": {
+        "email_invalid": "Email Incorrect",
+        "user_invalid": "This name is already registered.",
+        "email_registered": "This email is already registered.",
+        "employee_invalid": "Employee not found",
+        "error_number": "You can only enter number",
+        "error": "Error :/"
+    }
+}
